@@ -1,0 +1,60 @@
+.background{
+    background-color: black;
+    background-image: url(../assets/images/bgbadmin.jpg);
+    background-repeat:repeat;
+    background-size: auto;
+   
+}
+
+
+.col-lg-4 > a{
+    font-weight:bolder;
+    font-family:'Times New Roman', Times, serif;
+    color: black;
+    
+}
+.col-lg-4 > b{
+    font-weight:bolder;
+    font-family:'Times New Roman', Times, serif;
+    color: black;
+    font-size: x-large;
+}
+.col-lg-4 > p {
+    font-size: smaller;font-family:'Times New Roman', Times, serif;
+}
+
+.col-lg-3 > a{
+    font-weight:bolder;
+    font-family:'Times New Roman', Times, serif;
+    color: black;
+    font-size: x-large;
+}
+
+.col-lg-3 > p {
+    font-size: smaller;font-family:'Times New Roman', Times, serif;
+}
+
+.col > h8{
+    padding: 10px;
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+    color: black;
+    font-size:xx-large;
+}
+
+.container{
+    width: 100%;
+    padding: 50px;
+    text-align: center;
+    background: rgb(37, 37, 37);
+    color: rgb(255, 255, 255);
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5bd969d6506fbe4b1a0f5e6b/1613556027347-TNYY9VEX2PRTODIHEP9J/shutterstock_1592944909+-+Badminton+racket+and+shuttlecock+in+motion_1200px+JPEG.jpg?format=1000w) ;
+    background-size:100%;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.card-text {
+    color: black;
+}
+
